@@ -8,6 +8,7 @@ public class WebserviceAttendenceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WebserviceAttendenceApplication.class, args);
+		System.out.println("");
 	}
 
 }
